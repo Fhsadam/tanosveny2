@@ -1,0 +1,17 @@
+# Környezeti / helyi beállítások
+.env
+*.log
+.DS_Store
+Thumbs.db
+
+# Feltöltött felhasználói fájlok ne kerüljenek GitHubra
+public/uploads/*
+!public/uploads/.gitkeep
+
+# IDE / szerkesztő fájlok
+.vscode/
+.idea/
+
+# Függőségek, ha később kerülnének bele
+vendor/
+node_modules/
