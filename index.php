@@ -1,6 +1,5 @@
 <?php
-// 7a - PHP Front-controller tervezési minta => 2. Megoldás továbbfejlesztése.
-// A kiindulási minta lényege: index.php?oldal=fooldal, majd function_exists + call_user_func.
+
 session_start();
 $config = require __DIR__ . '/config.php';
 require_once __DIR__ . '/includes/helpers.php';
@@ -20,7 +19,6 @@ require_once __DIR__ . '/controllers/oldalak.php';
 $oldal = $_GET['oldal'] ?? 'fooldal';
 $oldal = preg_replace('/[^a-zA-Z0-9_]/', '', $oldal);
 
-// Kötelező 7a/2-es routing: ha létezik ilyen nevű függvény, azt hívjuk meg.
 if (function_exists($oldal)) {
     call_user_func($oldal);
 } else {
