@@ -1,0 +1,1918 @@
+{
+  "np": [
+    {
+      "id": 1,
+      "nev": "Aggteleki Nemzeti Park Igazgatóság"
+    },
+    {
+      "id": 2,
+      "nev": "Balaton-felvidéki Nemzeti Park Igazgatóság"
+    },
+    {
+      "id": 3,
+      "nev": "Bükki Nemzeti Park Igazgatóság"
+    },
+    {
+      "id": 4,
+      "nev": "Duna-Dráva Nemzeti Park Igazgatóság"
+    },
+    {
+      "id": 5,
+      "nev": "Duna-Ipoly Nemzeti Park Igazgatóság"
+    },
+    {
+      "id": 6,
+      "nev": "Fertő-Hanság Nemzeti Park Igazgatóság"
+    },
+    {
+      "id": 7,
+      "nev": "Hortobágyi Nemzeti Park Igazgatóság"
+    },
+    {
+      "id": 8,
+      "nev": "Kiskunsági Nemzeti Park Igazgatóság"
+    },
+    {
+      "id": 9,
+      "nev": "Körös-Maros Nemzeti Park Igazgatóság"
+    },
+    {
+      "id": 10,
+      "nev": "Őrségi Nemzeti Park Igazgatóság"
+    }
+  ],
+  "telepules": [
+    {
+      "id": 1,
+      "nev": "Abaliget",
+      "npid": 4
+    },
+    {
+      "id": 2,
+      "nev": "Ágasegyháza",
+      "npid": 8
+    },
+    {
+      "id": 3,
+      "nev": "Aggtelek",
+      "npid": 1
+    },
+    {
+      "id": 4,
+      "nev": "Apaj",
+      "npid": 8
+    },
+    {
+      "id": 5,
+      "nev": "Ásotthalom",
+      "npid": 8
+    },
+    {
+      "id": 6,
+      "nev": "Babócsa",
+      "npid": 4
+    },
+    {
+      "id": 7,
+      "nev": "Bakonybél",
+      "npid": 2
+    },
+    {
+      "id": 8,
+      "nev": "Balatonederics",
+      "npid": 2
+    },
+    {
+      "id": 9,
+      "nev": "Balatonmagyaród",
+      "npid": 2
+    },
+    {
+      "id": 10,
+      "nev": "Barcs",
+      "npid": 4
+    },
+    {
+      "id": 11,
+      "nev": "Bélapátfalva",
+      "npid": 3
+    },
+    {
+      "id": 12,
+      "nev": "Berettyóújfalu",
+      "npid": 7
+    },
+    {
+      "id": 13,
+      "nev": "Biharugra",
+      "npid": 9
+    },
+    {
+      "id": 14,
+      "nev": "Budapest",
+      "npid": 5
+    },
+    {
+      "id": 15,
+      "nev": "Bugac",
+      "npid": 8
+    },
+    {
+      "id": 16,
+      "nev": "Bükkszentkereszt",
+      "npid": 3
+    },
+    {
+      "id": 17,
+      "nev": "Cégénydányád",
+      "npid": 7
+    },
+    {
+      "id": 18,
+      "nev": "Celldömölk",
+      "npid": 10
+    },
+    {
+      "id": 19,
+      "nev": "Csáfordjánosfa",
+      "npid": 6
+    },
+    {
+      "id": 20,
+      "nev": "Csákvár",
+      "npid": 5
+    },
+    {
+      "id": 21,
+      "nev": "Császártöltés",
+      "npid": 8
+    },
+    {
+      "id": 22,
+      "nev": "Cserépfalu",
+      "npid": 3
+    },
+    {
+      "id": 23,
+      "nev": "Cserkút",
+      "npid": 4
+    },
+    {
+      "id": 24,
+      "nev": "Csopak",
+      "npid": 2
+    },
+    {
+      "id": 25,
+      "nev": "Dejtár",
+      "npid": 5
+    },
+    {
+      "id": 26,
+      "nev": "Dévaványa",
+      "npid": 9
+    },
+    {
+      "id": 27,
+      "nev": "Drégelypalánk",
+      "npid": 5
+    },
+    {
+      "id": 28,
+      "nev": "Dunapataj",
+      "npid": 8
+    },
+    {
+      "id": 29,
+      "nev": "Dunaremete",
+      "npid": 6
+    },
+    {
+      "id": 30,
+      "nev": "Esztergom",
+      "npid": 5
+    },
+    {
+      "id": 31,
+      "nev": "Farmos",
+      "npid": 5
+    },
+    {
+      "id": 32,
+      "nev": "Felsőtárkány",
+      "npid": 3
+    },
+    {
+      "id": 33,
+      "nev": "Fertőrákos",
+      "npid": 6
+    },
+    {
+      "id": 34,
+      "nev": "Fót",
+      "npid": 5
+    },
+    {
+      "id": 35,
+      "nev": "Fülöpháza",
+      "npid": 8
+    },
+    {
+      "id": 36,
+      "nev": "Fülöpszállás",
+      "npid": 8
+    },
+    {
+      "id": 37,
+      "nev": "Gánt",
+      "npid": 5
+    },
+    {
+      "id": 38,
+      "nev": "Garadna",
+      "npid": 3
+    },
+    {
+      "id": 39,
+      "nev": "Gyékényes",
+      "npid": 4
+    },
+    {
+      "id": 40,
+      "nev": "Gyöngyös",
+      "npid": 3
+    },
+    {
+      "id": 41,
+      "nev": "Győr",
+      "npid": 6
+    },
+    {
+      "id": 42,
+      "nev": "Hollókő",
+      "npid": 3
+    },
+    {
+      "id": 43,
+      "nev": "Hortobágy",
+      "npid": 7
+    },
+    {
+      "id": 44,
+      "nev": "Ipolytarnóc",
+      "npid": 3
+    },
+    {
+      "id": 45,
+      "nev": "Izsák",
+      "npid": 8
+    },
+    {
+      "id": 46,
+      "nev": "Jósvafő",
+      "npid": 1
+    },
+    {
+      "id": 47,
+      "nev": "Kaposvár",
+      "npid": 4
+    },
+    {
+      "id": 48,
+      "nev": "Kecskemét",
+      "npid": 8
+    },
+    {
+      "id": 49,
+      "nev": "Kékkút",
+      "npid": 2
+    },
+    {
+      "id": 50,
+      "nev": "Kercaszomor",
+      "npid": 10
+    },
+    {
+      "id": 51,
+      "nev": "Kisapáti",
+      "npid": 2
+    },
+    {
+      "id": 52,
+      "nev": "Kisszentmárton",
+      "npid": 4
+    },
+    {
+      "id": 53,
+      "nev": "Kölked",
+      "npid": 4
+    },
+    {
+      "id": 54,
+      "nev": "Kőszeg",
+      "npid": 10
+    },
+    {
+      "id": 55,
+      "nev": "Kunadacs",
+      "npid": 8
+    },
+    {
+      "id": 56,
+      "nev": "Lakitelek",
+      "npid": 8
+    },
+    {
+      "id": 57,
+      "nev": "Magyaregregy",
+      "npid": 4
+    },
+    {
+      "id": 58,
+      "nev": "Magyarszombatfa",
+      "npid": 10
+    },
+    {
+      "id": 59,
+      "nev": "Matty",
+      "npid": 4
+    },
+    {
+      "id": 60,
+      "nev": "Miskolc",
+      "npid": 3
+    },
+    {
+      "id": 61,
+      "nev": "Mohács",
+      "npid": 4
+    },
+    {
+      "id": 62,
+      "nev": "Mórahalom",
+      "npid": 8
+    },
+    {
+      "id": 63,
+      "nev": "Nagykovácsi",
+      "npid": 5
+    },
+    {
+      "id": 64,
+      "nev": "Nagykőrös",
+      "npid": 5
+    },
+    {
+      "id": 65,
+      "nev": "Óbánya",
+      "npid": 4
+    },
+    {
+      "id": 66,
+      "nev": "Ócsa",
+      "npid": 5
+    },
+    {
+      "id": 67,
+      "nev": "Old",
+      "npid": 4
+    },
+    {
+      "id": 68,
+      "nev": "Orfű",
+      "npid": 4
+    },
+    {
+      "id": 69,
+      "nev": "Orgovány",
+      "npid": 8
+    },
+    {
+      "id": 70,
+      "nev": "Osli",
+      "npid": 6
+    },
+    {
+      "id": 71,
+      "nev": "Őriszentpéter",
+      "npid": 10
+    },
+    {
+      "id": 72,
+      "nev": "Őrtilos",
+      "npid": 4
+    },
+    {
+      "id": 73,
+      "nev": "Paks",
+      "npid": 4
+    },
+    {
+      "id": 74,
+      "nev": "Pálmonostora",
+      "npid": 8
+    },
+    {
+      "id": 75,
+      "nev": "Pannonhalma",
+      "npid": 6
+    },
+    {
+      "id": 76,
+      "nev": "Parád",
+      "npid": 3
+    },
+    {
+      "id": 77,
+      "nev": "Pécs",
+      "npid": 4
+    },
+    {
+      "id": 78,
+      "nev": "Perkupa",
+      "npid": 1
+    },
+    {
+      "id": 79,
+      "nev": "Pilisszentiván",
+      "npid": 5
+    },
+    {
+      "id": 80,
+      "nev": "Poroszló",
+      "npid": 7
+    },
+    {
+      "id": 81,
+      "nev": "Pörböly",
+      "npid": 4
+    },
+    {
+      "id": 82,
+      "nev": "Ravazd",
+      "npid": 6
+    },
+    {
+      "id": 83,
+      "nev": "Salgótarján",
+      "npid": 3
+    },
+    {
+      "id": 84,
+      "nev": "Sámsonháza",
+      "npid": 3
+    },
+    {
+      "id": 85,
+      "nev": "Sarród",
+      "npid": 6
+    },
+    {
+      "id": 86,
+      "nev": "Somlójenő",
+      "npid": 2
+    },
+    {
+      "id": 87,
+      "nev": "Szabadkígyós",
+      "npid": 9
+    },
+    {
+      "id": 88,
+      "nev": "Szalafő",
+      "npid": 10
+    },
+    {
+      "id": 89,
+      "nev": "Szarvas",
+      "npid": 9
+    },
+    {
+      "id": 90,
+      "nev": "Szarvaskő",
+      "npid": 3
+    },
+    {
+      "id": 91,
+      "nev": "Szatymaz",
+      "npid": 8
+    },
+    {
+      "id": 92,
+      "nev": "Szeghalom",
+      "npid": 9
+    },
+    {
+      "id": 93,
+      "nev": "Szekszárd",
+      "npid": 5
+    },
+    {
+      "id": 94,
+      "nev": "Szeremle",
+      "npid": 4
+    },
+    {
+      "id": 95,
+      "nev": "Szigliget",
+      "npid": 2
+    },
+    {
+      "id": 96,
+      "nev": "Szilvásvárad",
+      "npid": 3
+    },
+    {
+      "id": 97,
+      "nev": "Szögliget",
+      "npid": 1
+    },
+    {
+      "id": 98,
+      "nev": "Tarpa",
+      "npid": 7
+    },
+    {
+      "id": 99,
+      "nev": "Tihany",
+      "npid": 2
+    },
+    {
+      "id": 100,
+      "nev": "Tiszaalpár",
+      "npid": 8
+    },
+    {
+      "id": 101,
+      "nev": "Tiszafüred",
+      "npid": 7
+    },
+    {
+      "id": 102,
+      "nev": "Tiszalúc",
+      "npid": 3
+    },
+    {
+      "id": 103,
+      "nev": "Tokaj",
+      "npid": 1
+    },
+    {
+      "id": 104,
+      "nev": "Vámospércs",
+      "npid": 7
+    },
+    {
+      "id": 105,
+      "nev": "Villány",
+      "npid": 4
+    },
+    {
+      "id": 106,
+      "nev": "Vízvár",
+      "npid": 4
+    }
+  ],
+  "ut": [
+    {
+      "azon": 1,
+      "nev": "Anna-ligeti tanösvény",
+      "hossz": 2.0,
+      "allomas": 8,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 89
+    },
+    {
+      "azon": 2,
+      "nev": "Apródok útja tanösvény",
+      "hossz": 7.2,
+      "allomas": 8,
+      "ido": 3.0,
+      "vezetes": 1,
+      "telepulesid": 27
+    },
+    {
+      "azon": 3,
+      "nev": "Aqua Colun tanösvény",
+      "hossz": 3.5,
+      "allomas": 5,
+      "ido": 2.0,
+      "vezetes": 1,
+      "telepulesid": 45
+    },
+    {
+      "azon": 4,
+      "nev": "Árpád fejedelem tanösvény",
+      "hossz": 3.0,
+      "allomas": 11,
+      "ido": 2.0,
+      "vezetes": 1,
+      "telepulesid": 100
+    },
+    {
+      "azon": 5,
+      "nev": "Ártéri tanösvény",
+      "hossz": 0.5,
+      "allomas": 4,
+      "ido": 0.5,
+      "vezetes": 1,
+      "telepulesid": 106
+    },
+    {
+      "azon": 6,
+      "nev": "Babócsai Basa-kert tanösvény",
+      "hossz": 1.0,
+      "allomas": 2,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 6
+    },
+    {
+      "azon": 7,
+      "nev": "Baradla tanösvény",
+      "hossz": 7.5,
+      "allomas": 18,
+      "ido": 3.0,
+      "vezetes": 1,
+      "telepulesid": 3
+    },
+    {
+      "azon": 8,
+      "nev": "Bárányfoki tanösvény",
+      "hossz": 2.1,
+      "allomas": 6,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 93
+    },
+    {
+      "azon": 9,
+      "nev": "Báránypirosító tanösvény",
+      "hossz": 1.6,
+      "allomas": 5,
+      "ido": 1.6,
+      "vezetes": 1,
+      "telepulesid": 35
+    },
+    {
+      "azon": 10,
+      "nev": "Barát-réti tanösvény",
+      "hossz": 6.5,
+      "allomas": 4,
+      "ido": 3.0,
+      "vezetes": 1,
+      "telepulesid": 32
+    },
+    {
+      "azon": 11,
+      "nev": "Barcsi Borókás tanösvény",
+      "hossz": 2.0,
+      "allomas": 4,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 10
+    },
+    {
+      "azon": 12,
+      "nev": "Bazaltorgonák tanösvény",
+      "hossz": 4.0,
+      "allomas": 7,
+      "ido": 2.0,
+      "vezetes": 1,
+      "telepulesid": 51
+    },
+    {
+      "azon": 13,
+      "nev": "Bél-kői tanösvény",
+      "hossz": 5.0,
+      "allomas": 7,
+      "ido": 2.5,
+      "vezetes": 1,
+      "telepulesid": 11
+    },
+    {
+      "azon": 14,
+      "nev": "Bihari-sík tanösvény",
+      "hossz": 7.2,
+      "allomas": 20,
+      "ido": 5.2,
+      "vezetes": 1,
+      "telepulesid": 12
+    },
+    {
+      "azon": 15,
+      "nev": "Bodrogzugi vízitúra tanösvény",
+      "hossz": 5.0,
+      "allomas": 3,
+      "ido": 2.0,
+      "vezetes": 0,
+      "telepulesid": 103
+    },
+    {
+      "azon": 16,
+      "nev": "Bódva-völgyi tanösvény",
+      "hossz": 2.5,
+      "allomas": 7,
+      "ido": 1.0,
+      "vezetes": 0,
+      "telepulesid": 78
+    },
+    {
+      "azon": 17,
+      "nev": "Boróka tanösvény",
+      "hossz": 2.9,
+      "allomas": 5,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 15
+    },
+    {
+      "azon": 18,
+      "nev": "Boros-Dráva tanösvény",
+      "hossz": 1.0,
+      "allomas": 2,
+      "ido": 0.5,
+      "vezetes": 1,
+      "telepulesid": 67
+    },
+    {
+      "azon": 19,
+      "nev": "Boroszlán tanösvény",
+      "hossz": 7.0,
+      "allomas": 8,
+      "ido": 3.0,
+      "vezetes": 1,
+      "telepulesid": 7
+    },
+    {
+      "azon": 20,
+      "nev": "Boszorkány-kő geológiai tanösvény",
+      "hossz": 0.4,
+      "allomas": 13,
+      "ido": 0.5,
+      "vezetes": 1,
+      "telepulesid": 83
+    },
+    {
+      "azon": 21,
+      "nev": "Bőköz tanösvény",
+      "hossz": 4.0,
+      "allomas": 6,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 52
+    },
+    {
+      "azon": 22,
+      "nev": "Bölömbika tanösvény",
+      "hossz": 3.0,
+      "allomas": 6,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 62
+    },
+    {
+      "azon": 23,
+      "nev": "Búbos vöcsök tanösvény",
+      "hossz": 1.5,
+      "allomas": 13,
+      "ido": 1.5,
+      "vezetes": 0,
+      "telepulesid": 9
+    },
+    {
+      "azon": 24,
+      "nev": "Buda-hegyi tanösvény",
+      "hossz": 2.0,
+      "allomas": 8,
+      "ido": 3.0,
+      "vezetes": 1,
+      "telepulesid": 84
+    },
+    {
+      "azon": 25,
+      "nev": "Cankó tanösvény",
+      "hossz": 1.0,
+      "allomas": 9,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 36
+    },
+    {
+      "azon": 26,
+      "nev": "Cégénydányádi Kastélypark tanösvény",
+      "hossz": 1.5,
+      "allomas": 19,
+      "ido": 1.0,
+      "vezetes": 0,
+      "telepulesid": 17
+    },
+    {
+      "azon": 27,
+      "nev": "Chernel-kerti tanösvény",
+      "hossz": 0.5,
+      "allomas": 0,
+      "ido": 0.5,
+      "vezetes": 0,
+      "telepulesid": 54
+    },
+    {
+      "azon": 28,
+      "nev": "Cserépfalui Ördögtorony tanösvény",
+      "hossz": 10.0,
+      "allomas": 20,
+      "ido": 4.5,
+      "vezetes": 1,
+      "telepulesid": 22
+    },
+    {
+      "azon": 29,
+      "nev": "Csipak tanösvény",
+      "hossz": 3.0,
+      "allomas": 9,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 62
+    },
+    {
+      "azon": 30,
+      "nev": "Csodarét tanösvény",
+      "hossz": 4.0,
+      "allomas": 10,
+      "ido": 2.0,
+      "vezetes": 1,
+      "telepulesid": 5
+    },
+    {
+      "azon": 31,
+      "nev": "Csomoros-sziget tanösvény",
+      "hossz": 0.7,
+      "allomas": 10,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 10
+    },
+    {
+      "azon": 32,
+      "nev": "Csörgőalma tanösvény",
+      "hossz": 0.0,
+      "allomas": 1,
+      "ido": 0.5,
+      "vezetes": 1,
+      "telepulesid": 71
+    },
+    {
+      "azon": 33,
+      "nev": "Denevér tanösvény",
+      "hossz": 5.0,
+      "allomas": 13,
+      "ido": 3.0,
+      "vezetes": 1,
+      "telepulesid": 1
+    },
+    {
+      "azon": 34,
+      "nev": "Erdei tanösvény",
+      "hossz": 2.7,
+      "allomas": 6,
+      "ido": 2.0,
+      "vezetes": 1,
+      "telepulesid": 15
+    },
+    {
+      "azon": 35,
+      "nev": "Eresztvényi kőbányák",
+      "hossz": 2.5,
+      "allomas": 6,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 83
+    },
+    {
+      "azon": 36,
+      "nev": "Erzsébet-sziget tanösvény",
+      "hossz": 3.0,
+      "allomas": 2,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 6
+    },
+    {
+      "azon": 37,
+      "nev": "Fekete harkály tanösvény",
+      "hossz": 5.0,
+      "allomas": 13,
+      "ido": 3.0,
+      "vezetes": 1,
+      "telepulesid": 47
+    },
+    {
+      "azon": 38,
+      "nev": "Felsőszeri tanösvény",
+      "hossz": 1.7,
+      "allomas": 6,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 88
+    },
+    {
+      "azon": 39,
+      "nev": "Fóti-Somlyó tanösvény",
+      "hossz": 3.5,
+      "allomas": 11,
+      "ido": 3.0,
+      "vezetes": 1,
+      "telepulesid": 34
+    },
+    {
+      "azon": 40,
+      "nev": "Földtani tanösvény",
+      "hossz": 2.0,
+      "allomas": 13,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 37
+    },
+    {
+      "azon": 41,
+      "nev": "Fürge cselle tanösvény",
+      "hossz": 3.2,
+      "allomas": 8,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 50
+    },
+    {
+      "azon": 42,
+      "nev": "Fürkész ösvény",
+      "hossz": 2.0,
+      "allomas": 12,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 46
+    },
+    {
+      "azon": 43,
+      "nev": "Górési tanösvény",
+      "hossz": 11.0,
+      "allomas": 5,
+      "ido": 3.0,
+      "vezetes": 1,
+      "telepulesid": 101
+    },
+    {
+      "azon": 44,
+      "nev": "Halásztelki tanösvény",
+      "hossz": 3.0,
+      "allomas": 10,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 89
+    },
+    {
+      "azon": 45,
+      "nev": "Hankovszky-liget tanösvény",
+      "hossz": 0.35,
+      "allomas": 8,
+      "ido": 0.5,
+      "vezetes": 1,
+      "telepulesid": 48
+    },
+    {
+      "azon": 46,
+      "nev": "Hany Istók tanösvény",
+      "hossz": 5.0,
+      "allomas": 7,
+      "ido": 2.0,
+      "vezetes": 0,
+      "telepulesid": 70
+    },
+    {
+      "azon": 47,
+      "nev": "Haraszt-hegyi tanösvény",
+      "hossz": 3.5,
+      "allomas": 7,
+      "ido": 3.0,
+      "vezetes": 1,
+      "telepulesid": 20
+    },
+    {
+      "azon": 48,
+      "nev": "Holt-Rába tanösvény",
+      "hossz": 6.0,
+      "allomas": 5,
+      "ido": 2.0,
+      "vezetes": 0,
+      "telepulesid": 41
+    },
+    {
+      "azon": 49,
+      "nev": "Ilona-völgyi geológiai tanösvény",
+      "hossz": 6.5,
+      "allomas": 9,
+      "ido": 2.5,
+      "vezetes": 1,
+      "telepulesid": 76
+    },
+    {
+      "azon": 50,
+      "nev": "Ipolytarnóc - Biológiai tanösvény",
+      "hossz": 6.0,
+      "allomas": 13,
+      "ido": 1.25,
+      "vezetes": 1,
+      "telepulesid": 44
+    },
+    {
+      "azon": 51,
+      "nev": "Ipolytarnóc - Borókás-árok geológiai tanösvény",
+      "hossz": 0.8,
+      "allomas": 7,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 44
+    },
+    {
+      "azon": 52,
+      "nev": "Ipolytarnóc - Kőszikla tanösvény",
+      "hossz": 0.9,
+      "allomas": 20,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 44
+    },
+    {
+      "azon": 53,
+      "nev": "Ipolytarnóc - Kőzetpark",
+      "hossz": 0.7,
+      "allomas": 20,
+      "ido": 0.5,
+      "vezetes": 1,
+      "telepulesid": 44
+    },
+    {
+      "azon": 54,
+      "nev": "Jági tanösvény",
+      "hossz": 3.5,
+      "allomas": 6,
+      "ido": 2.0,
+      "vezetes": 1,
+      "telepulesid": 79
+    },
+    {
+      "azon": 55,
+      "nev": "Jakab-hegyi tanösvény",
+      "hossz": 8.0,
+      "allomas": 10,
+      "ido": 2.0,
+      "vezetes": 1,
+      "telepulesid": 23
+    },
+    {
+      "azon": 56,
+      "nev": "Jávorkúti tanösvény",
+      "hossz": 3.0,
+      "allomas": 4,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 38
+    },
+    {
+      "azon": 57,
+      "nev": "Jónásrészi tanösvény",
+      "hossz": 5.0,
+      "allomas": 11,
+      "ido": 3.0,
+      "vezetes": 1,
+      "telepulesid": 104
+    },
+    {
+      "azon": 58,
+      "nev": "Káli-medence túrahálózat",
+      "hossz": 25.0,
+      "allomas": 79,
+      "ido": 8.0,
+      "vezetes": 1,
+      "telepulesid": 49
+    },
+    {
+      "azon": 59,
+      "nev": "Kamon-kő tanösvény",
+      "hossz": 6.0,
+      "allomas": 9,
+      "ido": 3.0,
+      "vezetes": 1,
+      "telepulesid": 95
+    },
+    {
+      "azon": 60,
+      "nev": "Kékbegy tanösvény",
+      "hossz": 0.21,
+      "allomas": 3,
+      "ido": 0.5,
+      "vezetes": 1,
+      "telepulesid": 31
+    },
+    {
+      "azon": 61,
+      "nev": "Kékmoszat tanösvény",
+      "hossz": 2.4,
+      "allomas": 12,
+      "ido": 2.0,
+      "vezetes": 1,
+      "telepulesid": 28
+    },
+    {
+      "azon": 62,
+      "nev": "Kesznyéteni TK agrár-környezetgazdálkodási tanösvény",
+      "hossz": 4.8,
+      "allomas": 6,
+      "ido": 3.5,
+      "vezetes": 1,
+      "telepulesid": 102
+    },
+    {
+      "azon": 63,
+      "nev": "Kígyósi tanösvény",
+      "hossz": 5.0,
+      "allomas": 4,
+      "ido": 2.0,
+      "vezetes": 0,
+      "telepulesid": 87
+    },
+    {
+      "azon": 64,
+      "nev": "Kismély-völgyi tanösvény",
+      "hossz": 1.0,
+      "allomas": 5,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 77
+    },
+    {
+      "azon": 65,
+      "nev": "Kisvátyoni tanösvény",
+      "hossz": 8.0,
+      "allomas": 6,
+      "ido": 3.0,
+      "vezetes": 0,
+      "telepulesid": 13
+    },
+    {
+      "azon": 66,
+      "nev": "Kitaibel tanösvény",
+      "hossz": 3.0,
+      "allomas": 9,
+      "ido": 2.0,
+      "vezetes": 1,
+      "telepulesid": 86
+    },
+    {
+      "azon": 67,
+      "nev": "Kontyvirág tanösvény",
+      "hossz": 2.4,
+      "allomas": 6,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 56
+    },
+    {
+      "azon": 68,
+      "nev": "Kormorános-erdő tanösvény",
+      "hossz": 2.0,
+      "allomas": 6,
+      "ido": 0.5,
+      "vezetes": 1,
+      "telepulesid": 59
+    },
+    {
+      "azon": 69,
+      "nev": "Kosbor tanösvény",
+      "hossz": 1.7,
+      "allomas": 5,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 55
+    },
+    {
+      "azon": 70,
+      "nev": "Kő-közi tanösvény",
+      "hossz": 0.8,
+      "allomas": 5,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 32
+    },
+    {
+      "azon": 71,
+      "nev": "Kőpark tanösvény",
+      "hossz": 0.2,
+      "allomas": 0,
+      "ido": 0.5,
+      "vezetes": 1,
+      "telepulesid": 14
+    },
+    {
+      "azon": 72,
+      "nev": "Körtike tanösvény",
+      "hossz": 6.2,
+      "allomas": 11,
+      "ido": 2.5,
+      "vezetes": 1,
+      "telepulesid": 88
+    },
+    {
+      "azon": 73,
+      "nev": "Kövi benge tanösvény",
+      "hossz": 0.3,
+      "allomas": 20,
+      "ido": 1.0,
+      "vezetes": 0,
+      "telepulesid": 33
+    },
+    {
+      "azon": 74,
+      "nev": "Lóczy gejzír-sétaút",
+      "hossz": 18.0,
+      "allomas": 15,
+      "ido": 6.0,
+      "vezetes": 1,
+      "telepulesid": 99
+    },
+    {
+      "azon": 75,
+      "nev": "Madarak és fák útja",
+      "hossz": 1.0,
+      "allomas": 5,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 15
+    },
+    {
+      "azon": 76,
+      "nev": "Madárvédelmi tanösvény",
+      "hossz": 0.3,
+      "allomas": 8,
+      "ido": 0.5,
+      "vezetes": 1,
+      "telepulesid": 54
+    },
+    {
+      "azon": 77,
+      "nev": "Mágor-pusztai tanösvény",
+      "hossz": 0.5,
+      "allomas": 5,
+      "ido": 1.5,
+      "vezetes": 0,
+      "telepulesid": 92
+    },
+    {
+      "azon": 78,
+      "nev": "Magyar-bányai kőpark",
+      "hossz": 0.15,
+      "allomas": 13,
+      "ido": 0.5,
+      "vezetes": 1,
+      "telepulesid": 83
+    },
+    {
+      "azon": 79,
+      "nev": "Mérus-erdő tanösvény",
+      "hossz": 1.0,
+      "allomas": 1,
+      "ido": 0.5,
+      "vezetes": 1,
+      "telepulesid": 6
+    },
+    {
+      "azon": 80,
+      "nev": "Millenniumi természetismereti és erdészeti bemutató sétaút",
+      "hossz": 2.5,
+      "allomas": 20,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 96
+    },
+    {
+      "azon": 81,
+      "nev": "Nagymező - Kis-kőháti-zsomboly tanösvény",
+      "hossz": 3.0,
+      "allomas": 3,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 96
+    },
+    {
+      "azon": 82,
+      "nev": "Nagypartosi tanösvény",
+      "hossz": 2.5,
+      "allomas": 6,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 53
+    },
+    {
+      "azon": 83,
+      "nev": "Nagy-Szénás tanösvény",
+      "hossz": 2.1,
+      "allomas": 7,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 63
+    },
+    {
+      "azon": 84,
+      "nev": "Nyéki-Holt-Duna tanösvény",
+      "hossz": 2.2,
+      "allomas": 6,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 81
+    },
+    {
+      "azon": 85,
+      "nev": "Óbányai Pro Silva tanösvény",
+      "hossz": 2.0,
+      "allomas": 5,
+      "ido": 0.5,
+      "vezetes": 1,
+      "telepulesid": 65
+    },
+    {
+      "azon": 86,
+      "nev": "Olasz-kapui tanösvény",
+      "hossz": 7.2,
+      "allomas": 6,
+      "ido": 3.0,
+      "vezetes": 1,
+      "telepulesid": 96
+    },
+    {
+      "azon": 87,
+      "nev": "Orfűi Vízfő tanösvény",
+      "hossz": 1.0,
+      "allomas": 4,
+      "ido": 0.5,
+      "vezetes": 1,
+      "telepulesid": 68
+    },
+    {
+      "azon": 88,
+      "nev": "Öregtavi tanösvény",
+      "hossz": 25.0,
+      "allomas": 18,
+      "ido": 6.0,
+      "vezetes": 1,
+      "telepulesid": 43
+    },
+    {
+      "azon": 89,
+      "nev": "Őrtilosi Dráva-ártér tanösvény",
+      "hossz": 2.0,
+      "allomas": 0,
+      "ido": 0.75,
+      "vezetes": 1,
+      "telepulesid": 72
+    },
+    {
+      "azon": 90,
+      "nev": "Paksi Ürge-mező tanösvény",
+      "hossz": 4.0,
+      "allomas": 11,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 73
+    },
+    {
+      "azon": 91,
+      "nev": "Pálfája tanösvény",
+      "hossz": 1.8,
+      "allomas": 10,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 64
+    },
+    {
+      "azon": 92,
+      "nev": "Páskom legelő tanösvény",
+      "hossz": 3.0,
+      "allomas": 6,
+      "ido": 2.0,
+      "vezetes": 1,
+      "telepulesid": 25
+    },
+    {
+      "azon": 93,
+      "nev": "Pele apó ösvénye",
+      "hossz": 8.5,
+      "allomas": 38,
+      "ido": 5.0,
+      "vezetes": 1,
+      "telepulesid": 8
+    },
+    {
+      "azon": 94,
+      "nev": "Pele körút",
+      "hossz": 0.8,
+      "allomas": 10,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 24
+    },
+    {
+      "azon": 95,
+      "nev": "Pimpó tanösvény",
+      "hossz": 5.8,
+      "allomas": 6,
+      "ido": 4.0,
+      "vezetes": 1,
+      "telepulesid": 69
+    },
+    {
+      "azon": 96,
+      "nev": "Poszáta tanösvény",
+      "hossz": 2.0,
+      "allomas": 8,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 45
+    },
+    {
+      "azon": 97,
+      "nev": "Ravazd-Sokorópátkai tanösvény",
+      "hossz": 15.0,
+      "allomas": 3,
+      "ido": 3.0,
+      "vezetes": 0,
+      "telepulesid": 82
+    },
+    {
+      "azon": 98,
+      "nev": "Réce tanösvény",
+      "hossz": 1.0,
+      "allomas": 5,
+      "ido": 0.5,
+      "vezetes": 1,
+      "telepulesid": 4
+    },
+    {
+      "azon": 99,
+      "nev": "Réhelyi tanösvény",
+      "hossz": 1.5,
+      "allomas": 8,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 26
+    },
+    {
+      "azon": 100,
+      "nev": "Rejtek - Répáshuta tanösvény",
+      "hossz": 9.0,
+      "allomas": 12,
+      "ido": 4.5,
+      "vezetes": 1,
+      "telepulesid": 16
+    },
+    {
+      "azon": 101,
+      "nev": "Rekettye tanösvény",
+      "hossz": 2.3,
+      "allomas": 6,
+      "ido": 2.0,
+      "vezetes": 1,
+      "telepulesid": 2
+    },
+    {
+      "azon": 102,
+      "nev": "Rezgőnyár tanösvény",
+      "hossz": 0.3,
+      "allomas": 7,
+      "ido": 0.5,
+      "vezetes": 1,
+      "telepulesid": 71
+    },
+    {
+      "azon": 103,
+      "nev": "Ság-hegy élővilága",
+      "hossz": 0.2,
+      "allomas": 13,
+      "ido": 0.2,
+      "vezetes": 1,
+      "telepulesid": 18
+    },
+    {
+      "azon": 104,
+      "nev": "Ság-hegyi geológiai tanösvény",
+      "hossz": 1.0,
+      "allomas": 18,
+      "ido": 0.5,
+      "vezetes": 1,
+      "telepulesid": 18
+    },
+    {
+      "azon": 105,
+      "nev": "Salgó - Somoskő vára tanösvény",
+      "hossz": 3.5,
+      "allomas": 6,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 83
+    },
+    {
+      "azon": 106,
+      "nev": "Sárgaliliom tanösvény",
+      "hossz": 6.2,
+      "allomas": 11,
+      "ido": 2.5,
+      "vezetes": 1,
+      "telepulesid": 58
+    },
+    {
+      "azon": 107,
+      "nev": "Sár-hegyi természetismereti tanösvény",
+      "hossz": 7.0,
+      "allomas": 12,
+      "ido": 3.0,
+      "vezetes": 1,
+      "telepulesid": 40
+    },
+    {
+      "azon": 108,
+      "nev": "Sas-hegy tanösvény",
+      "hossz": 0.85,
+      "allomas": 7,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 14
+    },
+    {
+      "azon": 109,
+      "nev": "Sáskajárás sétaút",
+      "hossz": 0.8,
+      "allomas": 8,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 15
+    },
+    {
+      "azon": 110,
+      "nev": "Selyem-réti tanösvény",
+      "hossz": 1.5,
+      "allomas": 6,
+      "ido": 2.0,
+      "vezetes": 1,
+      "telepulesid": 66
+    },
+    {
+      "azon": 111,
+      "nev": "Sirály tanösvény",
+      "hossz": 2.0,
+      "allomas": 5,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 91
+    },
+    {
+      "azon": 112,
+      "nev": "Sóvirág tanösvény",
+      "hossz": 0.5,
+      "allomas": 0,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 31
+    },
+    {
+      "azon": 113,
+      "nev": "Sötét-völgyi tanösvény",
+      "hossz": 4.3,
+      "allomas": 9,
+      "ido": 2.0,
+      "vezetes": 1,
+      "telepulesid": 93
+    },
+    {
+      "azon": 114,
+      "nev": "Strázsa-hegyi tanösvény",
+      "hossz": 1.2,
+      "allomas": 7,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 30
+    },
+    {
+      "azon": 115,
+      "nev": "Szádvár tanösvény",
+      "hossz": 4.5,
+      "allomas": 12,
+      "ido": 3.0,
+      "vezetes": 1,
+      "telepulesid": 97
+    },
+    {
+      "azon": 116,
+      "nev": "Szalajka-völgyi természetvédelmi bemutatóösvény",
+      "hossz": 4.2,
+      "allomas": 10,
+      "ido": 2.5,
+      "vezetes": 1,
+      "telepulesid": 96
+    },
+    {
+      "azon": 117,
+      "nev": "Szala menti tanösvény",
+      "hossz": 3.8,
+      "allomas": 9,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 71
+    },
+    {
+      "azon": 118,
+      "nev": "Szálkahalmi tanösvény",
+      "hossz": 1.1,
+      "allomas": 5,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 43
+    },
+    {
+      "azon": 119,
+      "nev": "Szarvaskői geológiai tanösvény",
+      "hossz": 8.8,
+      "allomas": 11,
+      "ido": 3.5,
+      "vezetes": 1,
+      "telepulesid": 90
+    },
+    {
+      "azon": 120,
+      "nev": "Szeremlei-Holt-Duna tanösvény",
+      "hossz": 2.4,
+      "allomas": 6,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 94
+    },
+    {
+      "azon": 121,
+      "nev": "Szigetközi Ökoturisztikai Bemutató Útvonal",
+      "hossz": 18.0,
+      "allomas": 12,
+      "ido": 2.0,
+      "vezetes": 0,
+      "telepulesid": 29
+    },
+    {
+      "azon": 122,
+      "nev": "Sziki őszirózsa tanösvény",
+      "hossz": 4.0,
+      "allomas": 10,
+      "ido": 2.0,
+      "vezetes": 0,
+      "telepulesid": 85
+    },
+    {
+      "azon": 123,
+      "nev": "Szilvás-kői geológiai tanösvény",
+      "hossz": 3.5,
+      "allomas": 12,
+      "ido": 1.5,
+      "vezetes": 1,
+      "telepulesid": 83
+    },
+    {
+      "azon": 124,
+      "nev": "Szinva tanösvény",
+      "hossz": 4.0,
+      "allomas": 6,
+      "ido": 3.0,
+      "vezetes": 1,
+      "telepulesid": 60
+    },
+    {
+      "azon": 125,
+      "nev": "Szomoróczi tanösvény",
+      "hossz": 3.0,
+      "allomas": 6,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 50
+    },
+    {
+      "azon": 126,
+      "nev": "Tanösvény a Turjánban",
+      "hossz": 1.2,
+      "allomas": 9,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 66
+    },
+    {
+      "azon": 127,
+      "nev": "Tarpai Szőlő-hegy tanösvény",
+      "hossz": 3.0,
+      "allomas": 6,
+      "ido": 2.0,
+      "vezetes": 0,
+      "telepulesid": 98
+    },
+    {
+      "azon": 128,
+      "nev": "Templom-hegyi tanösvény",
+      "hossz": 2.0,
+      "allomas": 6,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 105
+    },
+    {
+      "azon": 129,
+      "nev": "Pannonhalmi arborétum",
+      "hossz": 1.5,
+      "allomas": 3,
+      "ido": 0.3,
+      "vezetes": 0,
+      "telepulesid": 75
+    },
+    {
+      "azon": 130,
+      "nev": "Tisza-tavi vízi sétány és tanösvény",
+      "hossz": 1.5,
+      "allomas": 4,
+      "ido": 2.0,
+      "vezetes": 1,
+      "telepulesid": 80
+    },
+    {
+      "azon": 131,
+      "nev": "Tohonya-Kuriszlán tanösvény II. útvonal",
+      "hossz": 9.0,
+      "allomas": 25,
+      "ido": 6.0,
+      "vezetes": 1,
+      "telepulesid": 46
+    },
+    {
+      "azon": 132,
+      "nev": "Tohonya-Kuriszlán tanösvény I. útvonal",
+      "hossz": 4.5,
+      "allomas": 12,
+      "ido": 2.5,
+      "vezetes": 1,
+      "telepulesid": 46
+    },
+    {
+      "azon": 133,
+      "nev": "Tőzike tanösvény",
+      "hossz": 3.0,
+      "allomas": 5,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 19
+    },
+    {
+      "azon": 134,
+      "nev": "Tüskés-réti tanösvény",
+      "hossz": 1.0,
+      "allomas": 4,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 77
+    },
+    {
+      "azon": 135,
+      "nev": "Újmohácsi tanösvény",
+      "hossz": 3.1,
+      "allomas": 7,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 61
+    },
+    {
+      "azon": 136,
+      "nev": "Üde rétek tanösvény",
+      "hossz": 3.0,
+      "allomas": 5,
+      "ido": 2.0,
+      "vezetes": 1,
+      "telepulesid": 10
+    },
+    {
+      "azon": 137,
+      "nev": "Várdomb tanösvény",
+      "hossz": 0.3,
+      "allomas": 6,
+      "ido": 0.5,
+      "vezetes": 0,
+      "telepulesid": 100
+    },
+    {
+      "azon": 138,
+      "nev": "Vár-hegyi tanösvény",
+      "hossz": 10.0,
+      "allomas": 6,
+      "ido": 4.5,
+      "vezetes": 1,
+      "telepulesid": 32
+    },
+    {
+      "azon": 139,
+      "nev": "Vártúra ösvény",
+      "hossz": 1.2,
+      "allomas": 0,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 42
+    },
+    {
+      "azon": 140,
+      "nev": "Vár-völgyi földtani tanösvény",
+      "hossz": 3.0,
+      "allomas": 10,
+      "ido": 1.0,
+      "vezetes": 1,
+      "telepulesid": 57
+    },
+    {
+      "azon": 141,
+      "nev": "Vasút-oldali túraútvonal",
+      "hossz": 10.0,
+      "allomas": 1,
+      "ido": 2.5,
+      "vezetes": 1,
+      "telepulesid": 39
+    },
+    {
+      "azon": 142,
+      "nev": "Vizi Rence Túraútvonal",
+      "hossz": 6.0,
+      "allomas": 0,
+      "ido": 3.0,
+      "vezetes": 1,
+      "telepulesid": 33
+    },
+    {
+      "azon": 143,
+      "nev": "Vöcsök tanösvény",
+      "hossz": 3.2,
+      "allomas": 7,
+      "ido": 2.5,
+      "vezetes": 1,
+      "telepulesid": 74
+    },
+    {
+      "azon": 144,
+      "nev": "Vörös-mocsár tanösvény",
+      "hossz": 2.5,
+      "allomas": 2,
+      "ido": 2.0,
+      "vezetes": 1,
+      "telepulesid": 21
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "csaladi_nev": "Admin",
+      "utonev": "Felhasználó",
+      "login": "admin",
+      "password_hash": "$2y$12$CU1FgP72araq4IjRebqNFu.1fgTp.O07plMBuVAW.eXmsDXnAiDI2",
+      "created_at": "2026-05-18 09:00:00"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "name": "Vendég",
+      "email": "vendeg@example.com",
+      "subject": "Programajánló",
+      "message": "Érdeklődöm a hétvégi vezetett túrák iránt.",
+      "sender_user": "Vendég",
+      "created_at": "2026-05-18 10:10:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "title": "Homokbuckás útvonal",
+      "filename": "assets/img/galeria-homokbucka.svg",
+      "uploaded_by": "admin",
+      "created_at": "2026-05-18 09:00:00"
+    },
+    {
+      "id": 2,
+      "title": "Pallósor a lápvidéken",
+      "filename": "assets/img/galeria-pallo.svg",
+      "uploaded_by": "admin",
+      "created_at": "2026-05-18 09:05:00"
+    },
+    {
+      "id": 3,
+      "title": "Tanösvény tábla",
+      "filename": "assets/img/galeria-tabla.svg",
+      "uploaded_by": "admin",
+      "created_at": "2026-05-18 09:10:00"
+    }
+  ]
+}
